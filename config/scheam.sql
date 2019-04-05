@@ -1,0 +1,4 @@
+CREATE TABLE Test (
+  Col1 INT64,
+  Col2 INT64,
+) PRIMARY KEY (Col1)
